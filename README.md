@@ -14,13 +14,11 @@ A simple efficient solution for users to create, edit, delete **tasks** to Manag
 </div>
 
 <div style="display:inline; align:center;">
-    <img src="/photos/task.png" alt="Manage Task Fragment" height="420px">
-     <img src="/photos/task_home.png" alt="Manage Task Fragment" height="420px">
-    
+    <img src="/photos/task.png" alt="Manage Task Fragment" height="420px"> 
 </div>
 
 <div style="display:inline; align:center;">
-     <img src="/photos/task_home.png" alt="Manage Task Fragment" height="420px">
+     <img src="/photos/tasks_home.png" alt="Manage Task Fragment" height="420px">
     
 </div>
 
