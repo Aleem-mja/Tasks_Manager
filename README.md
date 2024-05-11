@@ -11,7 +11,7 @@ A Task Management App, where users can Manange their tasks by Add them with a de
 
 
 
-A simple efficient solution for users to create, edit, delete **tasks** and assign them colored task tags and and distinguishable  habit images. The app is available in both light and  dark mode.
+A simple efficient solution for users to create, edit, delete **tasks** and assign them colored task tags.
 
 
 ## 📱 Screenshots
